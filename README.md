@@ -119,8 +119,8 @@ endmodule
 ### PROGRAM:
 ```
 Program for flipflops  and verify its truth table in quartus using Verilog programming.
-Developed by: EASWAR.J
-RegisterNumber:  212221230024
+Developed by: JEEVA MS
+RegisterNumber:  212221230040
 
 PROGRAM:
 module dm(s1,s2,i1,i2,i3,i4,y);
